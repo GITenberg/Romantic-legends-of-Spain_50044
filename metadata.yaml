@@ -1,0 +1,39 @@
+_repo: Romantic-legends-of-Spain_50044
+contributor:
+  translators:
+  - agent_name: Bates, Katharine Lee
+    alias: Bates, Katherine Lee
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '2578'
+    url: http://www.gutenberg.org/2009/agents/2578
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+  - agent_name: Bates, Cornella Frances
+    gutenberg_agent_id: '45675'
+    url: http://www.gutenberg.org/2009/agents/45675
+creator:
+  author:
+    agent_name: Bécquer, Gustavo Adolfo
+    aliases:
+    - Bécquer, Gustavo Adolfo Domínguez
+    - Béquer, Gustavo Adolfo
+    - Domínguez Bécquer, Gustavo Adolfo
+    - Bastida, Gustavo Adolfo Domínguez
+    - Bequer, Gustavo Adolfo
+    - Becquer, Gustavo Adolfo Dominguez
+    birthdate: 1836
+    deathdate: 1870
+    gutenberg_agent_id: '3696'
+    url: http://www.gutenberg.org/2009/agents/3696
+    wikipedia: http://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer
+description: ''
+gutenberg_issued: '2015-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Romantic legends of Spain
+url: http://www.gutenberg.org/ebooks/50044
